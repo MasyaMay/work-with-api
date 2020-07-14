@@ -1,7 +1,7 @@
 About app
 ========================
 
-<p>Technical task for Frontend-development: https://anapioficeandfire.com/</p>
+<p>Work with API: https://anapioficeandfire.com/</p>
 
 Install
 -----------
