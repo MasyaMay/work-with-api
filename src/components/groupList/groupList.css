@@ -1,0 +1,7 @@
+.list-group {
+    margin-top: 30px;
+}
+
+.item-list li {
+    cursor: pointer;
+}

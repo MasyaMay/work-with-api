@@ -1,0 +1,15 @@
+.error {
+    display: block;
+    background-color: #fff;
+    padding: 25px;
+    margin: auto;
+    margin-bottom: 40px;
+    width: max-content;
+    text-align: center;
+}
+
+.error img {
+    display: block;
+    width: 100%;
+    max-width: 350px;
+}

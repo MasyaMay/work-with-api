@@ -1,0 +1,7 @@
+.spinner {
+  display: flex;
+  justify-content: center;
+  background-color: #fff;
+  padding: 25px;
+  margin: 30px 0;
+}
